@@ -76,7 +76,7 @@ Desarrollo y mantenimiento de aplicaciones backend en entorno empresarial.
 ---
 
 📁 Puedes ver todos mis repositorios aquí:  
-🔗 [github.com/ivangarcia-backend?tab=repositories](https://github.com/ivangarcia-backend?tab=repositories)
+🔗 [Repositorio](https://github.com/ivangarcia-backend?tab=repositories)
 
 ---
 
