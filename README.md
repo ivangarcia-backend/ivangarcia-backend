@@ -68,11 +68,23 @@ Desarrollo y mantenimiento de aplicaciones backend en entorno empresarial.
 
 ---
 
+## 🚀 Algunos de mis proyectos destacados:
+
+- [E-commerce Backend 🛒](https://github.com/IvanDataProjects/e-commerce) – API REST de e-commerce desarrollada con Spring Boot, con gestión de usuarios y pedidos, autenticación JWT y arquitectura orientada a microservicios.
+- [API Biblioteca 📚](https://github.com/ivangarcia-backend/biblioteca) – API REST para la gestión de una biblioteca, con operaciones CRUD, filtros avanzados, validaciones, manejo de errores y uso de Streams en Java.
+
+---
+
+📁 Puedes ver todos mis repositorios aquí:  
+🔗 [github.com/ivangarcia-backend?tab=repositories](https://github.com/ivangarcia-backend?tab=repositories)
+
+---
+
 ## 📫 Contacto
 
 - 📧 Email: ivanraso02@gmail.com  
-🔗 GitHub: [ivangarcia-backend](https://github.com/IvanDataProjects)  
-🔗 LinkedIn: [Iván García Raso](https://www.linkedin.com/in/ivan-garcia-raso)
+- 🔗 GitHub: [IvanDataProjects](https://github.com/IvanDataProjects)  
+- 🔗 LinkedIn: [Iván García Raso](https://www.linkedin.com/in/ivan-garcia-raso)
 
 ---
 
