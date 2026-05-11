@@ -71,8 +71,8 @@ Desarrollo y mantenimiento de aplicaciones backend en entorno empresarial.
 ## 📫 Contacto
 
 - 📧 Email: ivanraso02@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/ivan-garcia-raso  
-- 🐙 GitHub: github.com/IvanDataProjects  
+🔗 GitHub: [ivangarcia-backend](https://github.com/IvanDataProjects)  
+🔗 LinkedIn: [Iván García Raso](https://www.linkedin.com/in/ivan-garcia-raso)
 
 ---
 
